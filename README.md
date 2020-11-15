@@ -1,9 +1,7 @@
-img{
-border-radius : 50%,
-}
+
 
 <p align="center">
-  <img src="https://github.com/dric2018/dric2018/blob/main/Cedric.JPG" width="150" height="150" alt="My pic">
+  <img src="https://github.com/dric2018/dric2018/blob/main/Cedric.JPG" width="150" height="150" alt="My pic"  style="border:5px solid black">
 </p>
 
 ### Hi there 👋
