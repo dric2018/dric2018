@@ -1,3 +1,5 @@
+<img src="./Cedric_MANOUAN.jpg" width='500', heigt = '300'>
+
 ### Hi there 👋
 I am Cédric MANOUAN a very passionate data scientist and python developer 😄.
 I work particularly on computer vision and NLP fileds and I like learning and sharing my knowledge with others.
