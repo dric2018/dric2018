@@ -1,4 +1,4 @@
-<img src="./Cedric_MANOUAN.jpg" width='500', heigt = '300'>
+<img src="./Cedric_MANOUAN.png" width='500', height = '300'>
 
 ### Hi there 👋
 I am Cédric MANOUAN a very passionate data scientist and python developer 😄.
