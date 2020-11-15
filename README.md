@@ -10,7 +10,7 @@ I work particularly on computer vision and NLP fileds and I like learning and sh
 📫 just type Dric's on telegram or mail me at manouancedric@gmail.com.
 
 ### Where to find me ?
-😄 I am usualy arount zindi to experiments things...just [here] (https://zindi.africa/users/I_am_Zeus_AI), DM me !
+😄 I am usualy arount zindi to experiments things...just [here](https://zindi.africa/users/I_am_Zeus_AI), DM me !
 <!--
 **dric2018/dric2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
