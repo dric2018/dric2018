@@ -1,4 +1,4 @@
-<img src="./Cedric_MANOUAN.png" width='500', height = '300'>
+<img src="https://github.com/dric2018/dric2018/blob/main/Cedric_MANOUAN.png" width='500', height = '300'>
 
 ### Hi there 👋
 I am Cédric MANOUAN a very passionate data scientist and python developer 😄.
