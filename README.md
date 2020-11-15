@@ -1,6 +1,6 @@
 
-<p align="center" style='border-radius:30px'>
-  <img src="https://github.com/dric2018/dric2018/blob/main/Cedric.JPG" width="350" height="350" alt="My pic">
+<p align="center">
+  <img src="https://github.com/dric2018/dric2018/blob/main/Cedric.JPG" width="350" height="350" alt="My pic"  style='border-radius:35px'>
 </p>
 
 ### Hi there 👋
