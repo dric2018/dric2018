@@ -1,9 +1,6 @@
-<center>
-![my profile pic](https://github.com/dric2018/dric2018/blob/main/Cedric_MANOUAN.png)
-</center>
 
 <p align="center">
-  <img src="https://github.com/dric2018/dric2018/blob/main/Cedric_MANOUAN.png" width="350" height="350" alt="My pic">
+  <img src="https://github.com/dric2018/dric2018/blob/main/Cedric.JPG" width="350" height="350" alt="My pic">
 </p>
 
 ### Hi there 👋
