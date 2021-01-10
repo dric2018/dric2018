@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Mys stats
+## Dric's stats
 <a href="https://github.com/dric2018">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dric2018&show_icons=true&include_all_commits=true&theme=dark" alt="My stats" />
 </a>
