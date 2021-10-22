@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 I am Cédric MANOUAN a very passionate data scientist and python developer 😄.
-I am particularly interested in problem solving using computer vision and NLP. I also passionate about learning and sharing my knowledge with others.
+I am particularly interested in problem solving using computer vision and NLP. I am also passionate about learning and sharing my knowledge with others.
 
 ### Learning 
 👯 I’m looking to collaborate on data science projects / research 
