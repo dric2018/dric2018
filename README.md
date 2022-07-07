@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/dric2018/dric2018/blob/main/newMe.jpg" width="200" height="200" alt="My pic"  style="border:5px solid black">
+  <img src="https://github.com/dric2018/dric2018/blob/main/newMe.jpg" width="500" height="500" alt="My pic"  style="border:5px solid black">
 </p>
 
 ### Hi there 👋
