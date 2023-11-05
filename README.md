@@ -5,19 +5,15 @@
 </p>
 
 ### Hi there 👋
-I am Cédric MANOUAN a very passionate Deep learning engineer and python developer 😄.
-I am particularly interested in problem solving, computer vision and mostly Natural Language Processing for low-resource languages. I am also passionate about learning and sharing my knowledge with others.
+I am Cédric. A very passionate Deep Learning Engineer and Python developer😄.
+I am particularly interested in problem-solving in computer vision and mostly Natural Language Processing.
 
 ### Learning 
-👯 I’m open to collaboration on data science projects / research 
-🌱 I’m currently learning Speech recognition an audio data manipulations.
+👯 I’m open to collaboration on data science/research projects. 
+🌱 Currently exploring the concepts of "System 2 Deep Learning," and "Autonomous Machine Intelligence".
 
 ### How to reach me?  
-📫 just type Dric's on telegram or mail me at manouancedric@gmail.com.
-
-### Where to find me ?
-😄 ...just [here](https://zindi.africa/users/_MUFASA_), DM me !
-or by emal: manouancedric@gmail.com
+📫 just type Dric's on telegram or email me at manouancedric@gmail.com.
 
 [![Twitter Badge](https://img.shields.io/badge/-@cmDrStrange-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cmDrStrange)](https://twitter.com/cmDrStrange) [![Linkedin Badge](https://img.shields.io/badge/-cpem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cpem/)](https://www.linkedin.com/in/cpem/) [![Gmail Badge](https://img.shields.io/badge/-manouancedric@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manouancedric@gmail.com)](mailto:manouancedric@gmail.com)
 
